@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/Cliente.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/config/Fecha.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/ClienteDAO.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/Producto.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/controlador/ControladorImg.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/vistas/carrito.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/vistas/compras.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/index.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/Compra.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/css/estilos1.css</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/vistas/editar.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/controlador/Controlador.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/js/funciones.js</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/img/user.png</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/config/Conexion.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/img/user.jpg</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/vistas/addProducto.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/vistas/DetalleCompra.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/vistas/busqueda.jsp</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/Carrito.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/web/css/estilos.css</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/Pago.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/ProductoDAO.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/ComprasDAO.java</file>
+            <file>file:/C:/Users/Rizen/OneDrive/Escritorio/carpetas%20Escritorio/UPEA%207mo%20SEMESTRE/TECNOLOGIAS%20EMERGENTES%20II/EJEMPLOS%20PROYECTO%20FINAL/CarritoCompras/src/java/com/emer/modelo/DetalleCompra.java</file>
+        </group>
+    </open-files>
+</project-private>
